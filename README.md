@@ -30,14 +30,16 @@ ReviewRender takes a dataset of text reviews and runs NLP-based analysis to surf
 
 ## Tech Stack
 
-**Language** : Python 3.10+ <br>
-**UI** : Streamlit <br>
-**NLP** : NLTK <br>
-**Visualization** : Plotly <br>
-**Data** : Pandas
+```
+Language      : Python 3.10+
+UI            : Streamlit
+NLP           : NLTK 
+Visualization : Plotly
+Data          : Pandas
+```
 
 ---
 
 ## Author
 
-**Gummadi Likith**
+[Gummadi Likith](https://github.com/glikith)
