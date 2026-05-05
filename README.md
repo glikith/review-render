@@ -1,10 +1,10 @@
-# ReviewRender
+# Review Render
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-NLP-4B8BBE?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-Visualizations-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=flat&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 > Analyze and visualize product/service reviews using NLP, sentiment breakdown, keyword trends, and interactive charts in a single Streamlit app.
 
