@@ -40,6 +40,30 @@ Data          : Pandas
 
 ---
 
+### Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/glikith/ReviewRender.git
+cd ReviewRender
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Download required NLTK data
+python -c "import nltk; nltk.download('vader_lexicon'); nltk.download('stopwords')"
+```
+
+### Run
+
+```bash
+streamlit run src/app.py
+```
+
+The app will be available at `http://localhost:8501`.
+
+---
+
 ## Author
 
 [Gummadi Likith](https://github.com/glikith)
